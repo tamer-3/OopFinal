@@ -1,7 +1,7 @@
 # OOPfinal
 
 ## Team members:
-SOLO (•_•) ( •_•)>⌐■-■ (⌐■_■)
+SOLO (•__•) ( •__•)>⌐■-■ (⌐■_■)
 
 ## Project about Ala too university student Database
 All names are real persons

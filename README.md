@@ -14,8 +14,6 @@ I used mysql
 
 3) CLEAR - clear typespace
 
-4) CHANGE DATA - change data you already have
-
-5) EXIT - exit 
+4) EXIT - exit 
 
 

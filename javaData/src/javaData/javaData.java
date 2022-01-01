@@ -7,7 +7,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.table.DefaultTableModel;
 import java.util.Vector;
-import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
@@ -17,7 +16,7 @@ public class javaData extends javax.swing.JFrame {
     
     private static final String username = "root";
     private static final String password = "T_4m3rl4n";
-    private static final String dataConn = "jdbc:mysql://localhost:3306/"
+    private static final String dataConn = "jdbc:mysql://127.0.0.1:3306/"
             + "student";
     Connection sqlConn = null;
     PreparedStatement prep = null;

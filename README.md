@@ -1,5 +1,9 @@
 # OOPfinal
 
+feedback 1 - https://docs.google.com/presentation/d/17uu7vXsh4ZCYsPajVGrvAAeW9Gsu4iI_/edit?usp=sharing&ouid=105652662247406802805&rtpof=true&sd=true
+
+feedback 2 - https://docs.google.com/presentation/d/18DViHBbzvfQMDjbbkvDzWpyTIo9bgxiK/edit?usp=sharing&ouid=113603186553048582741&rtpof=true&sd=true
+
 ## Team members:
 SOLO (•\_•) ( •\_•)>⌐■-■ (⌐■_■)
 

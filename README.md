@@ -4,7 +4,7 @@ feedback 1 - https://docs.google.com/presentation/d/17uu7vXsh4ZCYsPajVGrvAAeW9Gs
 
 feedback 2 - https://docs.google.com/presentation/d/18DViHBbzvfQMDjbbkvDzWpyTIo9bgxiK/edit?usp=sharing&ouid=113603186553048582741&rtpof=true&sd=true
 
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=wi01Tmi0tsc)
 
 ## Team members:
 SOLO (•\_•) ( •\_•)>⌐■-■ (⌐■_■)

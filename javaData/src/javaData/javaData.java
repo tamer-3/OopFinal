@@ -70,7 +70,7 @@ public class javaData extends javax.swing.JFrame {
         }
     }
 
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    
     private void initComponents() {
 
         MainPanel = new javax.swing.JPanel();
@@ -107,61 +107,61 @@ public class javaData extends javax.swing.JFrame {
         Content.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 3));
         Content.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel2.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel2.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel2.setText("ID");
         Content.add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 20, 60, 40));
 
-        colID.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        colID.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         colID.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Content.add(colID, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 20, 290, 40));
 
-        jLabel3.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel3.setText("Name");
         Content.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 60, 60, 40));
 
-        colName.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        colName.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         colName.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Content.add(colName, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 60, 290, 40));
 
-        jLabel4.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel4.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel4.setText("Surname");
         Content.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 100, 80, 40));
 
-        colSurname.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        colSurname.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         colSurname.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Content.add(colSurname, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 100, 290, 40));
 
-        jLabel5.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel5.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel5.setText("Year");
         Content.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 140, 60, 40));
 
-        colYear.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        colYear.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         colYear.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Content.add(colYear, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 140, 290, 40));
 
-        jLabel6.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel6.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel6.setText("Gender");
         Content.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 180, 70, 40));
 
-        colGender.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        colGender.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         colGender.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Content.add(colGender, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 180, 290, 40));
 
-        jLabel7.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel7.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel7.setText("Student ID");
         Content.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 220, 100, 40));
 
-        colStudentID.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        colStudentID.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         colStudentID.setHorizontalAlignment(javax.swing.JTextField.CENTER);
         Content.add(colStudentID, new org.netbeans.lib.awtextra.AbsoluteConstraints(110, 220, 290, 40));
 
-        addButton.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); // NOI18N
+        addButton.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); 
         addButton.setText("ADD");
         addButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -170,7 +170,7 @@ public class javaData extends javax.swing.JFrame {
         });
         Content.add(addButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 310, 170, 70));
 
-        deleteButton.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); // NOI18N
+        deleteButton.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); 
         deleteButton.setText("DEL");
         deleteButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -179,12 +179,12 @@ public class javaData extends javax.swing.JFrame {
         });
         Content.add(deleteButton, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 310, 170, 70));
 
-        jLabel8.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); // NOI18N
+        jLabel8.setFont(new java.awt.Font("Comic Sans MS", 0, 18)); 
         jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel8.setText("ID columns must be unique");
         Content.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 260, 410, 40));
 
-        Clear.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); // NOI18N
+        Clear.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); 
         Clear.setText("CLEAR");
         Clear.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -193,7 +193,7 @@ public class javaData extends javax.swing.JFrame {
         });
         Content.add(Clear, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 390, 170, 70));
 
-        exitButton.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); // NOI18N
+        exitButton.setFont(new java.awt.Font("Comic Sans MS", 0, 36)); 
         exitButton.setText("EXIT");
         exitButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -207,7 +207,7 @@ public class javaData extends javax.swing.JFrame {
         Info.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 3));
         Info.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        StudentData.setFont(new java.awt.Font("Comic Sans MS", 0, 12)); // NOI18N
+        StudentData.setFont(new java.awt.Font("Comic Sans MS", 0, 12)); 
         StudentData.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
 
@@ -241,7 +241,7 @@ public class javaData extends javax.swing.JFrame {
         Name.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.LOWERED));
         Name.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel1.setFont(new java.awt.Font("Comic Sans MS", 0, 70)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Comic Sans MS", 0, 70)); 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Ala-Too University DataBase");
         Name.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 1160, 80));
@@ -250,9 +250,9 @@ public class javaData extends javax.swing.JFrame {
 
         pack();
         setLocationRelativeTo(null);
-    }// </editor-fold>//GEN-END:initComponents
+    }
 
-    private void addButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_addButtonActionPerformed
+    private void addButtonActionPerformed(java.awt.event.ActionEvent evt) {
         
         try {
             Class.forName("com.mysql.jdbc.Driver");
@@ -280,9 +280,9 @@ public class javaData extends javax.swing.JFrame {
                             java.util.logging.Level.SEVERE, null, ex);
         }
         updDTBS();
-    }//GEN-LAST:event_addButtonActionPerformed
+    }
 
-    private void deleteButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_deleteButtonActionPerformed
+    private void deleteButtonActionPerformed(java.awt.event.ActionEvent evt) {
         DefaultTableModel defTable = (DefaultTableModel)StudentData.getModel();
         
         int SelectRows = StudentData.getSelectedRow();
@@ -321,13 +321,13 @@ public class javaData extends javax.swing.JFrame {
                     javaData.class.getName()).log(
                             java.util.logging.Level.SEVERE, null, ex);
         }
-    }//GEN-LAST:event_deleteButtonActionPerformed
+    }
 
-    private void exitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_exitButtonActionPerformed
+    private void exitButtonActionPerformed(java.awt.event.ActionEvent evt) {
         System.exit(0);
-    }//GEN-LAST:event_exitButtonActionPerformed
+    }
 
-    private void StudentDataMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_StudentDataMouseClicked
+    private void StudentDataMouseClicked(java.awt.event.MouseEvent evt) {
         DefaultTableModel defTable = (DefaultTableModel)StudentData.getModel();
         
         int SelectRows = StudentData.getSelectedRow();
@@ -338,9 +338,9 @@ public class javaData extends javax.swing.JFrame {
         colYear.setText(defTable.getValueAt(SelectRows, 3).toString());
         colGender.setText(defTable.getValueAt(SelectRows, 4).toString());
         colStudentID.setText(defTable.getValueAt(SelectRows, 5).toString());
-    }//GEN-LAST:event_StudentDataMouseClicked
+    }
 
-    private void ClearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ClearActionPerformed
+    private void ClearActionPerformed(java.awt.event.ActionEvent evt) {
         colID.setText("");
         colName.setText("");
         colSurname.setText("");
@@ -353,7 +353,7 @@ public class javaData extends javax.swing.JFrame {
         int SelectRows = StudentData.getSelectedRow();
         
         updDTBS();
-    }//GEN-LAST:event_ClearActionPerformed
+    }
   
     public static void main(String args[]) {
         try {
@@ -389,7 +389,6 @@ public class javaData extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton Clear;
     private javax.swing.JPanel Content;
     private javax.swing.JPanel Info;
@@ -414,5 +413,5 @@ public class javaData extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel8;
     private javax.swing.JScrollPane jScrollPane1;
-    // End of variables declaration//GEN-END:variables
+    
 }

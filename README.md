@@ -15,6 +15,10 @@ SOLO (•\_•) ( •\_•)>⌐■-■ (⌐■_■)
 ## Project about Ala too university student Database
 I used mysql
 
+jar file in javadata/dist
+
+java file in Javadata/src
+
 ## Buttons:
 
 1) ADD - add new data
